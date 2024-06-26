@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 실시간으로 발전하는 개발자 이동호입니다. 👋
 
 <!--
 **dongramiho/dongramiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
