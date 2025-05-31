@@ -1,12 +1,13 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" alt="header"/>
-  <h1>Hi Everyone!</h1>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" alt="header"/>
+  
+  <h1>Hi Everyone! 👋</h1>
+  <h3>이동호에요..</h3>
 </div>
 
-이동호에요..
-
-### Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:leedongho@gachon.ac.kr)
+### 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leedongho@gachon.ac.kr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dongramiho/)
 
 ### GitHub stats
 <!-- ![Dongho's Stats](https://github-readme-stats.vercel.app/api?username=dongramiho&theme=cobalt2&show_icons=true&hide_border=true&count_private=true) -->
