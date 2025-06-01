@@ -21,4 +21,3 @@
 ### 💻 Tech Stack
 - **Programming Languages**: Python, C, JAVA
 - **Data & Databases**: SQL
-- **Machine Learning**: Regression, Tree-Based Models, Boosting
