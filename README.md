@@ -9,13 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leedongho@gachon.ac.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dongramiho/)
 
-### GitHub stats
-<!-- ![Dongho's Stats](https://github-readme-stats.vercel.app/api?username=dongramiho&theme=cobalt2&show_icons=true&hide_border=true&count_private=true) -->
-![Dongho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dongramiho&theme=cobalt2&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongramiho&layout=compact&theme=cobalt2&hide_border=true)
-
-
 ## 🛠 Skills & Expertise
 
 ### 💻 Tech Stack
