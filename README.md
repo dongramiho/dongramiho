@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" alt="header"/>
   
   <h1>Hi Everyone! 👋</h1>
-  <h3>저에요..</h3>
+  <h3>저예요..</h3>
 </div>
 
 ### 📫 Connect with Me
