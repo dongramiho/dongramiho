@@ -3,7 +3,6 @@
 - 💼 **ML Engineer**, building LLM products
 - 🤖 Specialized in **LLM Applications**: LangGraph multi-agent pipelines, multi-model streaming, LLM-as-a-judge evaluation
 - 🔭 Run **LLM observability & cost tracking** on self-hosted Langfuse (Kubernetes, ClickHouse, v3 → v4 migration in production)
-- 🧩 Open source: [Langfuse #19928](https://github.com/langfuse/langfuse/issues/19928)
 <br>
 
 ## 🛠 Tech Stack
