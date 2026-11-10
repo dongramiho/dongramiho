@@ -35,5 +35,5 @@
 <div align="left">
   <a href="https://github.com/dongramiho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
   <a href="mailto:leedongho@gachon.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/dongramiho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%EB%8F%99%ED%98%B8-%EC%9D%B4-84a918414/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </div>
