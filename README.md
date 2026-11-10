@@ -29,6 +29,13 @@
   </picture>
 </div>
 
+#### 💼 Work account: [@dongholee-10](https://github.com/dongholee-10)
+<sub>Day-to-day work happens in private repositories, so this graph shows activity counts only.</sub>
+
+<div align="center">
+  <a href="https://github.com/dongholee-10"><img alt="Work account contribution graph" src="https://ghchart.rshah.org/dongholee-10" width="100%"></a>
+</div>
+
 <br>
 
 ## 📫 Contact & Links
